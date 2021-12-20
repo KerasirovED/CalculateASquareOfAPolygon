@@ -1,13 +1,13 @@
 # Calculate a square of a polygon
-"Calculate a square of a polygon" has wroten for some company as the test task. The program has been written as clear and simple as the author can.
+"Calculate a square of a polygon" has been wroten for some company as the test task. The program has been wroten as clear and simple as the author can.
 
 ## Fuctionality
 "Calculate a square of a polygon" gives an opportunity of calculating a square of a polygon. Users can define a polygon in two following ways:
 - draw a polygon by handwriting,
-- set coordinates of points of polygon manually.
+- set coordinates of points of a polygon manually.
 
 ## Configuration
-The program has wroten using C# 7.3, and Windows Forms with .NET Framework 4.7.2.
+The program has been wroten using C# 7.3, and Windows Forms with .NET Framework 4.7.2.
 
 ## Interface
 
